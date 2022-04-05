@@ -12,6 +12,10 @@ https://github.com/WillPeyer/1MonthProject/tree/main
 
 A small project towards the end of the 2021 school year that I was a part of with two other partners was called "Elmo's Revenge". It's development journey was mainly used at a learning epericence for me and my two teammeates. My main role during the development was smoothing out the timing of the monster's spawning, and managing the score of the player after the game had ended.
 
+https://github.com/WillPeyer/SkySkirmish
+
+My second year in iOS app development has been where I really started to begin my iOS programming journey. I've paired up with two other people to develop "Sky Skirmish". You can check out the repository if you are interested.
+
 # MIT-AppInventor-Portfolio
 
 https://github.com/WillPeyer/Apple-Finder
