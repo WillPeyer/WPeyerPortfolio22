@@ -1,5 +1,5 @@
-## WPeyerPortfolio
-2020-2022 Portfolio
+# WPeyerPortfolio
+## Swift Portfolio
 
 https://github.com/AnthonyKuismi/Super-Bird-Fighter-Ultra
 
@@ -16,7 +16,7 @@ https://github.com/WillPeyer/SkySkirmish
 
 My second year in iOS app development has been where I really started to begin my iOS programming journey. I've paired up with two other people to develop "Sky Skirmish". You can check out the repository if you are interested.
 
-# MIT-AppInventor-Portfolio
+## MIT-AppInventor-Portfolio
 
 https://github.com/WillPeyer/Apple-Finder
 
