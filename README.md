@@ -1,5 +1,7 @@
 # WPeyerPortfolio
 
+Hi! My name is Will Peyer, and I'm a student at Eden Prairie High School, Minnesota. I first began my programming journey in AP Computer Science Principles in my Sophomore year. I learned the basics of programming languages and expanded my basic problem solving skills. Later, in my Junior year, I took AP CSA where I learned the fundimentals of Java. Now, I am in iOS App Development where I can create and upload applications to the Apple App Store. I am currently working on "Sky Skirmish", a bullet-hell type game.
+
 ## [Super Bird Fighter Ultra](https://github.com/AnthonyKuismi/Super-Bird-Fighter-Ultra)
 
 My specialty during the start of my iOS journey was with sprites and animation, something that has contributed well to the gameplay and aesthetics of my apps overall. My first animation set was based around a game named Chicken Fighter Ultra. It included various actions that a goose would perform, including walking, flying, and attacking. I also created sprites and animation for the boss chicken. That indcluded the egg that they shoot, and a crate for a mechanic that was never added. The program that I used to make all of these animations was Piskel, a free online sprite and animation maker.
