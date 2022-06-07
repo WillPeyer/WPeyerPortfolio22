@@ -15,7 +15,7 @@ A small project towards the end of the 2021 school year that I was a part of wit
 
 ## [Sky Skirmish](https://github.com/WillPeyer/SkySkirmish)
 
-My second year in iOS app development has been where I really started to begin my iOS programming journey. I've paired up with two other people to develop "Sky Skirmish". You can check out the repository if you are interested.
+This was my biggest project to date. My second year in iOS app development has been where I really started to begin my iOS programming journey. I paired up with two other people to develop "Sky Skirmish", and you can check out the repository if you are interested. It's a simple bullet-hell type shooter with enemy flight paths and a helicopter that shoots at the player. It was a huge undertaking and I am very proud of the result.
 
 ## [Apple Finder](https://github.com/WillPeyer/Apple-Finder)
 
